@@ -40,7 +40,7 @@ The project evaluates the recommendation system's performance using metrics such
 3. Run the Jupyter Notebook file `recommendation_system.ipynb` to explore the code and generate recommendations.
 
 ## Credits
-- The dataset used in this project was obtained from [insert dataset source].
+- The dataset used in this project was obtained from #Kaggle.
 - Inspiration and guidance were drawn from various online tutorials and resources.
 
 Feel free to explore the code, provide feedback, and contribute to further improvements. Happy recommending!
