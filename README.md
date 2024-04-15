@@ -1,6 +1,6 @@
 # Movie-Recommendation-System
 
-![image](https://github.com/reallywasi/Movie-Recommendation-System/assets/118682540/f66b0bc6-8b4e-4a73-82f6-37dddd4c9e37)
+![image](https://github.com/reallywasi/Movie-Recommendation-System/assets/118682540/c80ccf5b-993a-4312-b2f0-9d0e18e4f65b)
 
 # Movie Recommendation System using Item Similarity
 
